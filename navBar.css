@@ -2,7 +2,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: rgb(51, 51, 51);
     overflow: hidden;
   }
   
@@ -28,10 +28,19 @@
     color: white;
   }
 
+  h1, h3 {
+    color: whitesmoke;
+    -webkit-text-stroke: .33px black;
+  }
+
+  body {
+    background: linear-gradient(0.25turn, #D64309, #0033A0)
+  }
+
   p {
-    background-color: #EEEEEE;
+    background-color: #c6c6c8;
   }
 
   footer {
-    background-color: #EEEEEE;
+    background-color: #c6c6c8;
   }
