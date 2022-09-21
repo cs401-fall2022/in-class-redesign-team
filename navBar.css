@@ -28,6 +28,7 @@
     color: white;
   }
 
+
   h1, h3 {
     color: whitesmoke;
     -webkit-text-stroke: .33px black;
@@ -38,9 +39,19 @@
   }
 
   p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em;
+    text-align: center;
     background-color: #c6c6c8;
   }
 
   footer {
+    font-size: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
     background-color: #c6c6c8;
   }
