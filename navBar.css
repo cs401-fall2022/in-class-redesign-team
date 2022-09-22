@@ -1,11 +1,9 @@
-
-
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgb(51, 51, 51);
     overflow: hidden;
   }
-
+  
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
@@ -24,10 +22,9 @@
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #08a9d1;
+    background-color: #0033A0;
     color: white;
   }
-
 
   h1, h3 {
     color: whitesmoke;
